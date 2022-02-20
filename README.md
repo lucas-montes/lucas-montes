@@ -1,6 +1,4 @@
 ### Hi there 👋, I'm Lucas
-#### I am regular person
-I don't really like to talk about myself, sorry.
 
 Skills: PYTHON / JS / HTML / CSS
 
