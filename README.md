@@ -1,10 +1,14 @@
-### Hi there 👋, I'm Lucas
+### Hi there 👋, this is Lucas' Github profile
+
+Lucas is a "young" guy learning everything realted to IT (mainly backend, server side, AI, computer science). Trying to improve everyday and learning new things. Battling to stay focus and not jumping into new things that seems (and usually are) very cool like linux distros or any open source project. He doesn't participate to much in open sources projects because he's focused on learning and working for his own projects (very selfish I know), but to be able to help other people in a meaningful way you must have the skills for that, so now he is improving his skills.
+
+I hope that you will like what he does and if you have anything to tell him, go ahead. Cheers.
 
 Skills: PYTHON / JS / HTML / CSS
 
-- 🔭 I’m currently working on inversionesyfinanzas.xyz 
-- 🌱 I’m currently learning Python, Data structures, Algorithms, AI and all these trending topics 
-- 📫 How to reach me: lluc23@hotmail.com 
+- 🔭 He's currently working on inversionesyfinanzas.xyz 
+- 🌱 He's currently learning Python, Data structures, Algorithms, AI and all these trending topics 
+- 📫 How to reach him: lluc23@hotmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lluc2397)  
