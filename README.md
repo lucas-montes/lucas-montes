@@ -4,8 +4,8 @@ Trying to improve everyday and learning new things.
 
 I hope that you will like what he does and if you have anything to tell him, go ahead. Cheers.
 
-- 🔭 Currently working on inversionesyfinanzas.xyz 
-- 🌱 Currently learning Python, Data structures, Algorithms, AI and all these trending topics 
+- 🔭 Working and testing neew technologies with inversionesyfinanzas.xyz 
+- 🌱 Currently improving my skills on Data structures, Algorithms, AI and architecture. 
 - 📫 How to reach: lluc23@hotmail.com 
 
 ## 🔧 Technologies & Tools
