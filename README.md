@@ -2,7 +2,7 @@
 
 I hope that you will like what he does and if you have anything to tell him, go ahead. Cheers.
 
-- 🔭 Working and testing new technologies with inversionesyfinanzas.xyz 
+- 🔭 Working and testing new technologies with ![inversionesyfinanzas.xyz](https://github.com/InvFin) 
 - 🌱 Currently improving my skills on Data structures, Algorithms, AI and architecture. 
 - 📫 How to reach: lluc23@hotmail.com
 
@@ -11,10 +11,8 @@ I hope that you will like what he does and if you have anything to tell him, go 
 ✉ lluc23@hotmail.com
 
 # Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1b.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manusimidt/)
-[![LinkedIn](https://img.shields.io/badge/Twitter-%231a1a1b.svg?style=for-the-badge&logo=twitter)](https://twitter.com/manusimidt)
-[![LinkedIn](https://img.shields.io/badge/Reddit-%231a1a1b.svg?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/manusimidt)
-[![Instagram](https://img.shields.io/badge/Instagram-%231a1a1b?style=for-the-badge&logo=instagram)](https://www.instagram.com/manusimidt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231a1a1b.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-montes/)
+[![Instagram](https://img.shields.io/badge/Instagram-%231a1a1b?style=for-the-badge&logo=instagram)](https://www.instagram.com/lucas_mnts/)
 
 
 # 🔧 Technologies & Tools
