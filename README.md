@@ -15,7 +15,7 @@ I hope that you will like what he does and if you have anything to tell him, go 
 [![Instagram](https://img.shields.io/badge/Instagram-%231a1a1b?style=for-the-badge&logo=instagram)](https://www.instagram.com/lucas_mnts/)
 
 # GitHub Stats
-[![GH Stats](https://github-readme-streak-stats.herokuapp.com/?user=lucas-montes&theme=dark&hide_border=false)](https://github.com/lluc2397)<br/>
+[![GH Stats](https://github-readme-streak-stats.herokuapp.com/?user=lucas-montes&theme=dark&hide_border=false)](https://github.com/lucas-montes)<br/>
 [![GH Stats](https://github-readme-stats.vercel.app/api/top-langs?username=lucas-montes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/lucas-montes)
 
 # 🔧 Technologies & Tools
