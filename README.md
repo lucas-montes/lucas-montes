@@ -2,7 +2,6 @@
 
 I hope that you will like what he does and if you have anything to tell him, go ahead. Cheers.
 
-- 🔭 Working and testing new technologies with ![InvFin](https://github.com/InvFin) 
 - 🌱 PLaying with DSA, AI and architecture. 
 - 📫 How to reach: lluc23@hotmail.com
 
